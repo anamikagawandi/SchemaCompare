@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/anamika.gawandi/SchemaCompare/lib/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anamika.gawandi/SchemaCompare/lib/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anamika.gawandi/SchemaCompare/lib/gson-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anamika.gawandi/SchemaCompare/lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anamika.gawandi/SchemaCompare/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anamika.gawandi/SchemaCompare/lib/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
